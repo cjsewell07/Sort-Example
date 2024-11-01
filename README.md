@@ -9,9 +9,15 @@ The instructions are as shown below.
     python sort.py
     ```
 2. The below should be the output
-    ![Kiku](assets/running_script.png)    
+
+    ![Kiku](assets/running_script.png)
+
 3. Input the information based on the information presented on the screen.
+
     ![Kiku](assets/inputs.png)
+
 4. Once inputs are all entered correctly, the script will respond with the appropriate package stack placement
+
     ![Kiku](assets/finished.png)
+    
 5. Enjoy the sort example!
